@@ -1,0 +1,8 @@
+[package]
+name = "cosmic-theme-tools"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+cosmic-theme = { git = "https://github.com/pop-os/libcosmic.git", version = "0.1.0" }
+ron = "0.8.1"
